@@ -1,15 +1,16 @@
 Build docker image from VITE VUEJS project and NGINX as dist build
 
-==============================================================
+====================================
 Run Docker Compose
 or
 Build The Image
-==============================================================
+====================================
 
 *Run Docker Compose
+
 docker compose up
 
-==============================================================
+====================================
 
 *Build The Image From Dockerfile
 1. docker build -t docker-vite-vuejs-nginx .
@@ -19,7 +20,7 @@ then, running the image
 2. type command to run nginx
     nginx -g 'daemon off;'
 
-==============================================================
+====================================
 
 *Note 
 for a sample, try this:
