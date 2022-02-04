@@ -1,9 +1,11 @@
 Build docker image from VITE VUEJS project and NGINX as dist build
 
 ====================================
+
 Run Docker Compose
 or
 Build The Image
+
 ====================================
 
 *Run Docker Compose
